@@ -7,3 +7,7 @@ Repositorio creado en la clase 3 del curso Python para Machine Learning (Mayo202
 
 # Lenguaje de Programacion 
 ![](https://www.python.org/static/community_logos/python-logo.png)
+
+## Sesion3 :
+  * GitOps : Git + Terraform + Kubernetes
+  * Git + Github.com
